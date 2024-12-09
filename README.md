@@ -1,4 +1,4 @@
-# Hola 👋 soy Juan Pablo, o como me suelen llamar, Juampi.  
+## Hola 👋 soy Juan Pablo  
 
 <!--
 Esto es lo que imagino que no se muestra
